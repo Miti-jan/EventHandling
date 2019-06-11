@@ -12,7 +12,6 @@ namespace EventHandlingApp.Models
         public string Name { get; set; }
         public string Address { get; set; }
         public double Rent { get; set; }
-        public Event Event { get; set; }
 
     }
 }
