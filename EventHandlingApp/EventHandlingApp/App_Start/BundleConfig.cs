@@ -18,6 +18,10 @@ namespace EventHandlingApp
             // ready for production, use the build tool at https://modernizr.com to pick only the tests you need.
             bundles.Add(new ScriptBundle("~/bundles/modernizr").Include(
                         "~/Scripts/modernizr-*"));
+<<<<<<< HEAD
+=======
+                        "~/models/Scripts/modernizr-*"));
+>>>>>>> parent of 0e6ecdb... Update Bundleconfig.css
 
             bundles.Add(new ScriptBundle("~/bundles/bootstrap").Include(
                       "~/Scripts/bootstrap-rtl.js"));
