@@ -1,35 +1,12 @@
-﻿@import url('/fonts/Vazir/Vazir.css');
-body {
+﻿body {
     padding-top: 50px;
     padding-bottom: 20px;
-<<<<<<< HEAD:EventHandlingApp/Content/Site.css
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-    direction:rtl;
-    font-family:Vazir;
-=======
-    margin-top: 30px;
-    direction: rtl;
-    font-family: vazir;
->>>>>>> 2773124291b16f7d7069971df4bb0f0a3be50023
-=======
-    margin-top: 30px;
-    direction: rtl;
-    font-family: vazir;
->>>>>>> 2773124291b16f7d7069971df4bb0f0a3be50023
-=======
->>>>>>> parent of 2773124... Merge pull request #1 from pfaraji/master
-=======
->>>>>>> parent of 2773124... Merge pull request #1 from pfaraji/master:EventHandlingApp/EventHandlingApp/Content/Site.css
 }
 
 /* Set padding to keep content from hitting the edges */
 .body-content {
-    margin-top:70px;
     padding-left: 15px;
     padding-right: 15px;
-    direction:rtl;
 }
 
 /* Override the default bootstrap behavior where horizontal description lists 
