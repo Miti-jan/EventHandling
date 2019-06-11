@@ -213,17 +213,17 @@
     <Content Include="favicon.ico" />
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
 <<<<<<< HEAD:EventHandlingApp/EventHandlingApp.csproj
+<<<<<<< HEAD:EventHandlingApp/EventHandlingApp.csproj
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
     <Content Include="fonts\Vazir.css.css" />
+=======
+>>>>>>> parent of fc5913c... init:EventHandlingApp/EventHandlingApp/EventHandlingApp.csproj
     <Content Include="Global.asax" />
     <Content Include="Content\Site.css" />
-    <Content Include="Scripts\bootstrap-rtl.js" />
-    <Content Include="Scripts\bootstrap-rtl.min.js" />
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\bootstrap.min.js" />
-    <Content Include="fonts\vazir-font-v19.2.0 %281%29.zip" />
     <None Include="Scripts\jquery-3.3.1.intellisense.js" />
     <Content Include="Scripts\jquery-3.3.1.js" />
     <Content Include="Scripts\jquery-3.3.1.min.js" />
@@ -235,6 +235,7 @@
     <Content Include="Scripts\jquery.validate.unobtrusive.js" />
     <Content Include="Scripts\jquery.validate.unobtrusive.min.js" />
     <Content Include="Scripts\modernizr-2.8.3.js" />
+<<<<<<< HEAD:EventHandlingApp/EventHandlingApp.csproj
 <<<<<<< HEAD
 =======
     <Content Include="fonts\Vazir\vazir.css" />
@@ -391,6 +392,8 @@
 >>>>>>> parent of 2773124... Merge pull request #1 from pfaraji/master
 =======
 >>>>>>> parent of 2773124... Merge pull request #1 from pfaraji/master:EventHandlingApp/EventHandlingApp/EventHandlingApp.csproj
+=======
+>>>>>>> parent of fc5913c... init:EventHandlingApp/EventHandlingApp/EventHandlingApp.csproj
     <Content Include="Web.config">
       <SubType>Designer</SubType>
     </Content>

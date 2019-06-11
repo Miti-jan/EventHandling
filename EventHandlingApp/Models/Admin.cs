@@ -5,7 +5,6 @@ using System.Web;
 
 namespace EventHandlingApp.Models
 {
-    //admin no property
     public class Admin:Person
     {
 

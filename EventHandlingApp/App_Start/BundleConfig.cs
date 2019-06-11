@@ -19,17 +19,21 @@ namespace EventHandlingApp
             bundles.Add(new ScriptBundle("~/bundles/modernizr").Include(
                         "~/Scripts/modernizr-*"));
 <<<<<<< HEAD:EventHandlingApp/App_Start/BundleConfig.cs
+<<<<<<< HEAD:EventHandlingApp/App_Start/BundleConfig.cs
 <<<<<<< HEAD
 =======
                         "~/models/Scripts/modernizr-*"));
 >>>>>>> parent of 0e6ecdb... Update Bundleconfig.css
 =======
 >>>>>>> parent of 2773124... Merge pull request #1 from pfaraji/master:EventHandlingApp/EventHandlingApp/App_Start/BundleConfig.cs
+=======
+>>>>>>> parent of fc5913c... init:EventHandlingApp/EventHandlingApp/App_Start/BundleConfig.cs
 
             bundles.Add(new ScriptBundle("~/bundles/bootstrap").Include(
-                      "~/Scripts/bootstrap-rtl.js"));
+                      "~/Scripts/bootstrap.js"));
 
             bundles.Add(new StyleBundle("~/Content/css").Include(
+<<<<<<< HEAD:EventHandlingApp/App_Start/BundleConfig.cs
 <<<<<<< HEAD:EventHandlingApp/App_Start/BundleConfig.cs
 <<<<<<< HEAD
                       "~/Content/bootstrap-rtl.css",
@@ -48,6 +52,9 @@ namespace EventHandlingApp
 =======
                       "~/Content/bootstrap.css",
 >>>>>>> parent of 2773124... Merge pull request #1 from pfaraji/master:EventHandlingApp/EventHandlingApp/App_Start/BundleConfig.cs
+=======
+                      "~/Content/bootstrap.css",
+>>>>>>> parent of fc5913c... init:EventHandlingApp/EventHandlingApp/App_Start/BundleConfig.cs
                       "~/Content/site.css"));
         }
     }
