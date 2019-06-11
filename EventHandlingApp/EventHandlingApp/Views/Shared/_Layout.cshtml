@@ -3,13 +3,9 @@
 <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>@ViewBag.Title-App</title>
+    <title>@ViewBag.Title - My ASP.NET Application</title>
     @Styles.Render("~/Content/css")
     @Scripts.Render("~/bundles/modernizr")
-    <link href="~/fonts/vazir/vazir.css" rel="stylesheet" />
-
-
-
 
 </head>
 <body>
@@ -21,6 +17,7 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
                 @Html.ActionLink("برگزاری مراسم", "Index", "Home", new { area = "" }, new { @class = "navbar-brand" })
@@ -46,6 +43,15 @@
 
 >>>>>>> 2773124291b16f7d7069971df4bb0f0a3be50023
                     <li>@Html.ActionLink("تماس با ما", "Contact", "Home")</li>
+=======
+                @Html.ActionLink("Application name", "Index", "Home", new { area = "" }, new { @class = "navbar-brand" })
+            </div>
+            <div class="navbar-collapse collapse">
+                <ul class="nav navbar-nav">
+                    <li>@Html.ActionLink("Home", "Index", "Home")</li>
+                    <li>@Html.ActionLink("About", "About", "Home")</li>
+                    <li>@Html.ActionLink("Contact", "Contact", "Home")</li>
+>>>>>>> parent of 2773124... Merge pull request #1 from pfaraji/master
                 </ul>
                 @Html.Partial("_LoginPartial")
             </div>
@@ -57,6 +63,7 @@
         <footer>
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
             <p>&copy; @DateTime.Now.Year - پروزه موسسه آموزشی کهکشان نور</p>
 =======
             <p>&copy; @DateTime.Now.Year -مدیریت رویداد آسان </p>
@@ -64,12 +71,14 @@
 =======
             <p>&copy; @DateTime.Now.Year -مدیریت رویداد آسان </p>
 >>>>>>> 2773124291b16f7d7069971df4bb0f0a3be50023
+=======
+            <p>&copy; @DateTime.Now.Year - My ASP.NET Application</p>
+>>>>>>> parent of 2773124... Merge pull request #1 from pfaraji/master
         </footer>
     </div>
 
-    @Scripts.Render("~/Scripts/jquery")
-    @Scripts.Render("~/Scripts/bootstrap-rtl")
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/bootstrap")
     @RenderSection("scripts", required: false)
-    <script src="~/Scripts/bootstrap-rtl.js"></script>
 </body>
 </html>

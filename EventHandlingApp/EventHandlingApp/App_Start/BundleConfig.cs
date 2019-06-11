@@ -17,12 +17,13 @@ namespace EventHandlingApp
             // Use the development version of Modernizr to develop with and learn from. Then, when you're
             // ready for production, use the build tool at https://modernizr.com to pick only the tests you need.
             bundles.Add(new ScriptBundle("~/bundles/modernizr").Include(
-                        "~/models/Scripts/modernizr-*"));
+                        "~/Scripts/modernizr-*"));
 
             bundles.Add(new ScriptBundle("~/bundles/bootstrap").Include(
                       "~/Scripts/bootstrap-rtl.js"));
 
             bundles.Add(new StyleBundle("~/Content/css").Include(
+<<<<<<< HEAD
                       "~/Content/bootstrap-rtl.css",
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -33,8 +34,10 @@ namespace EventHandlingApp
 =======
                       "~/content/bootstrap-theme.css",
 >>>>>>> 2773124291b16f7d7069971df4bb0f0a3be50023
+=======
+                      "~/Content/bootstrap.css",
+>>>>>>> parent of 2773124... Merge pull request #1 from pfaraji/master
                       "~/Content/site.css"));
-            BundleTable.EnableOptimizations = true;
         }
     }
 }
