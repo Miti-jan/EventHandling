@@ -25,7 +25,11 @@ namespace EventHandlingApp
             bundles.Add(new StyleBundle("~/Content/css").Include(
                       "~/Content/bootstrap-rtl.css",
 <<<<<<< HEAD
+<<<<<<< HEAD
                       "~/Content/bootstrap-theme-rtl.css",
+=======
+                      "~/content/bootstrap-theme.css",
+>>>>>>> 2773124291b16f7d7069971df4bb0f0a3be50023
 =======
                       "~/content/bootstrap-theme.css",
 >>>>>>> 2773124291b16f7d7069971df4bb0f0a3be50023

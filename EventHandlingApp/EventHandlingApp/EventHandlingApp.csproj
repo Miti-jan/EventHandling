@@ -221,6 +221,7 @@
     <Content Include="favicon.ico" />
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
 <<<<<<< HEAD
+<<<<<<< HEAD
     <Content Include="fonts\Vazir.css.css" />
     <Content Include="Global.asax" />
     <Content Include="Content\Site.css" />
@@ -244,6 +245,11 @@
     <Content Include="fonts\Vazir\vazir.css" />
     <Content Include="Global.asax" />
     <Content Include="Content\Site.css" />
+=======
+    <Content Include="fonts\Vazir\vazir.css" />
+    <Content Include="Global.asax" />
+    <Content Include="Content\Site.css" />
+>>>>>>> 2773124291b16f7d7069971df4bb0f0a3be50023
     <Content Include="Models\Scripts\bootstrap-rtl.js" />
     <Content Include="Models\Scripts\bootstrap-rtl.min.js" />
     <Content Include="Models\Scripts\bootstrap.js" />
@@ -362,6 +368,9 @@
     <None Include="Scripts\jquery-2.2.4.intellisense.js" />
     <Content Include="Scripts\jquery-2.2.4.js" />
     <Content Include="Scripts\jquery-2.2.4.min.js" />
+<<<<<<< HEAD
+>>>>>>> 2773124291b16f7d7069971df4bb0f0a3be50023
+=======
 >>>>>>> 2773124291b16f7d7069971df4bb0f0a3be50023
     <Content Include="Web.config">
       <SubType>Designer</SubType>
