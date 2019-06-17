@@ -1,12 +1,18 @@
-﻿body {
+﻿@import url('/fonts/Vazir.css.css');
+body {
     padding-top: 50px;
     padding-bottom: 20px;
+    direction: rtl;
+    font-family: Vazir;
+ 
 }
 
 /* Set padding to keep content from hitting the edges */
 .body-content {
+    margin-top: 70px;
     padding-left: 15px;
     padding-right: 15px;
+    color: black;
 }
 
 /* Override the default bootstrap behavior where horizontal description lists 
